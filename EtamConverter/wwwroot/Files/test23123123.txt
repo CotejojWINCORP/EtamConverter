@@ -1,0 +1,5 @@
+dotnet ef dbcontext scaffold "server=localhost;userid=dbuser;password=jomsql_123;database=dubrequests;" Pomelo.EntityFrameworkCore.MySql -o Models -f
+
+  "ConnectionStrings": {
+    "DubReqConn": "Server=localhost;Database:dubrequest;User=dbuser;Password:jomsql_123"
+  }

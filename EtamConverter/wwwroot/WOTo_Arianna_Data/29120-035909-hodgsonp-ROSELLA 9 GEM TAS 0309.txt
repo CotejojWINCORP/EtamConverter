@@ -1,0 +1,33 @@
+Property,Aired Time,Channels (Placed),Aired Length,Order Advertiser,Program,Order #,Aired Ad-ID,Order Demographic
+
+Multi 
+3/09/2023 
+"9GEM-TAS","12:39:41 XM","M-HOB",":15","Rosella Brands Pty Ltd","Living With A Serial Killer","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","12:39:41 XM","M-LAU",":15","Rosella Brands Pty Ltd","Living With A Serial Killer","1650326","WZVB007138","PPL25+"
+5/09/2023 
+"9GEM-TAS","3:48:22 PM","M-HOB",":15","Rosella Brands Pty Ltd","Dr Quinn Medicine Woman ","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","3:48:22 PM","M-LAU",":15","Rosella Brands Pty Ltd","Dr Quinn Medicine Woman ","1650326","WZVB007138","PPL25+"
+6/09/2023 
+"9GEM-TAS","9:44:46 PM","M-HOB",":15","Rosella Brands Pty Ltd","Midsomer Murders","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","12:25:32 XM","M-HOB",":15","Rosella Brands Pty Ltd","Framed by the Killer","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","12:54:14 XM","M-HOB",":15","Rosella Brands Pty Ltd","Living With A Serial Killer","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","1:05:50 XM","M-HOB",":30","Rosella Brands Pty Ltd","Living With A Serial Killer","1650326","BB052330","PPL25+"
+"9GEM-TAS","9:44:46 PM","M-LAU",":15","Rosella Brands Pty Ltd","Midsomer Murders","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","12:25:32 XM","M-LAU",":15","Rosella Brands Pty Ltd","Framed by the Killer","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","12:54:14 XM","M-LAU",":15","Rosella Brands Pty Ltd","Living With A Serial Killer","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","1:05:50 XM","M-LAU",":30","Rosella Brands Pty Ltd","Living With A Serial Killer","1650326","BB052330","PPL25+"
+7/09/2023 
+"9GEM-TAS","4:12:25 XM","M-HOB",":30","Rosella Brands Pty Ltd","Yorkshire Auction House","1650326","BB052330","PPL25+"
+"9GEM-TAS","4:12:25 XM","M-LAU",":30","Rosella Brands Pty Ltd","Yorkshire Auction House","1650326","BB052330","PPL25+"
+8/09/2023 
+"9GEM-TAS","6:40:42 PM","M-HOB",":15","Rosella Brands Pty Ltd","Antiques Roadshow","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","6:40:42 PM","M-LAU",":15","Rosella Brands Pty Ltd","Antiques Roadshow","1650326","WZVB007138","PPL25+"
+9/09/2023 
+"9GEM-TAS","5:26:47 PM","M-HOB",":15","Rosella Brands Pty Ltd","Saturday Late Afternoon Movie","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","2:37:27 XM","M-HOB",":15","Rosella Brands Pty Ltd","Late Late Movie","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","5:26:37 XM","M-HOB",":30","Rosella Brands Pty Ltd","Dangerman","1650326","BB052330","PPL25+"
+"9GEM-TAS","5:26:47 PM","M-LAU",":15","Rosella Brands Pty Ltd","Saturday Late Afternoon Movie","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","2:37:27 XM","M-LAU",":15","Rosella Brands Pty Ltd","Late Late Movie","1650326","WZVB007138","PPL25+"
+"9GEM-TAS","5:26:37 XM","M-LAU",":30","Rosella Brands Pty Ltd","Dangerman","1650326","BB052330","PPL25+"
+
+"","","","7:00","","","","",""
